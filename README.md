@@ -11,13 +11,12 @@ Filter is a configurable application template that displays a map with an intera
 
 #Features
 **Filter** is a configurable application template that displays a map with an interactive filtered view of a feature layer. The application displays prompts and hints for attribute filter values which are used to locate specific features. 
-
 The template can be configured with the following options: 
 
--**Map:** Choose the web map used in the application. 
--**Title:** The application title. The default title is the web map name. 
--**Subtitle** Text appearing below the title used to further describe the application. The default subtitle is the web map summary. 
--**Filter Text:** Prompt users to explore the data by displaying additional values to choose as the filter text. 
+- **Map:** Choose the web map used in the application. 
+- **Title:** The application title. The default title is the web map name. 
+- **Subtitle** Text appearing below the title used to further describe the application. The default subtitle is the web map summary. 
+- **Filter Text:** Prompt users to explore the data by displaying additional values to choose as the filter text. 
 
 #Instructions
 
