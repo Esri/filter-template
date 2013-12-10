@@ -6,7 +6,7 @@ Filter is a configurable application template that displays a map with an intera
 
 ![Screen Shot](https://dl.dropboxusercontent.com/u/24627279/screenshots/filter_th.jpg)
 
-[View it live](http://www.arcgis.com/apps/Filter/index.html?webmap=1df512c380994cc5a3dad2e2d428eea3)
+[View it live](http://www.arcgis.com/apps/Filter/index.html?webmap=d7b2c06ea5fc49dd8177480a8edacff6)
 
 
 #Features
