@@ -37,6 +37,7 @@ The template can be configured with the following options:
 - [ArcGIS API for JavaScript Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
 - [ArcGIS Online] (http://www.arcgis.com)
 - Want to create your own template? View the [Application Boilerplate](https://github.com/Esri/application-boilerplate-js) to get started. 
+- [View Filter template on ArcGIS Online](http://www.arcgis.com/home/item.html?id=be13c2ac76f44dc2afcd7d7cfd1a38f7)
 
 #Issues
 Found a bug or want to request a new feature? Please let us know by submitting an issue. 
