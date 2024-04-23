@@ -1,4 +1,8 @@
-filter-template
+
+ArcGIS Configurable Apps will be retired in 2025. The ArcGIS Configurable Apps source code repro is deprecated and will not receive further updates. In addition, this repository will be removed in October 2025, along with the October 2025 ArcGIS Online update.
+
+
+Deprecated:filter-template
 ===============
 
 Filter is a configurable application template that displays a map with an interactive filtered view of a feature layer. 
